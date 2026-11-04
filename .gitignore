@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 ./models/scenes/*
+
+key.txt
+
+ppo_Racecar_multiinput.zip
