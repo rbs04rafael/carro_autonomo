@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.10.22",
+  "startedAt":  "2026-11-04T17:54:34.091518Z",
+  "program":  "D:\\UFRRJ\\Topicos_Especiais_IA\\trabalho_race_car\\racecar_gym\\treinar.py",
+  "codePath":  "treinar.py",
+  "codePathLocal":  "treinar.py",
+  "git":  {
+    "remote":  "https://github.com/rbs04rafael/carro_autonomo.git",
+    "commit":  "4c2428c2885b9e367c362d0e75a5876b67ddc6dd"
+  },
+  "email":  "rbs04rafael.barbosa@gmail.com",
+  "root":  "D:\\UFRRJ\\Topicos_Especiais_IA\\trabalho_race_car\\racecar_gym",
+  "host":  "DESKTOP-CHAJ0SC",
+  "executable":  "C:\\Users\\Rafael Barbosa\\miniconda3\\envs\\racecar_env\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "500106784768",
+      "used":  "162503602176"
+    }
+  },
+  "memory":  {
+    "total":  "8495517696"
+  },
+  "cpu":  {
+    "model":  "Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz"
+  },
+  "writerId":  "01a1a7b2-c831-72c3-a6d5-f07471404542"
+}

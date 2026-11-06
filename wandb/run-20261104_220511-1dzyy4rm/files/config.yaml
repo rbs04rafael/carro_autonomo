@@ -1,0 +1,52 @@
+_wandb:
+    value:
+        cli_version: 0.31.0
+        e:
+            01a1a93d-07a2-7245-876e-6fb9942ee03d:
+                codePath: treinar.py
+                codePathLocal: treinar.py
+                cpu:
+                    model: Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz
+                cpu_count: 4
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "500106784768"
+                        used: "162533961728"
+                email: rbs04rafael.barbosa@gmail.com
+                executable: C:\Users\Rafael Barbosa\miniconda3\envs\racecar_env\python.exe
+                git:
+                    commit: 4c2428c2885b9e367c362d0e75a5876b67ddc6dd
+                    remote: https://github.com/rbs04rafael/carro_autonomo.git
+                host: DESKTOP-CHAJ0SC
+                memory:
+                    total: "8495517696"
+                os: Windows-10-10.0.19045-SP0
+                program: D:\UFRRJ\Topicos_Especiais_IA\trabalho_race_car\racecar_gym\treinar.py
+                python: CPython 3.10.22
+                root: D:\UFRRJ\Topicos_Especiais_IA\trabalho_race_car\racecar_gym
+                startedAt: "2026-11-05T01:05:11.528369Z"
+                writerId: 01a1a93d-07a2-7245-876e-6fb9942ee03d
+        m: []
+        python_version: 3.10.22
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 16
+                - 35
+            "4": 3.10.22
+            "5": 0.31.0
+            "8":
+                - 3
+            "12": 0.31.0
+            "13": windows-amd64
+env_id:
+    value: SingleAgentAustria-v0
+policy_type:
+    value: MultiInputPolicy
+total_timesteps:
+    value: 500000
